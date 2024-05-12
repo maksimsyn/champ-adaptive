@@ -15,16 +15,8 @@
       "pre-commit": "npm run test"
     }
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/webistomin/startuem.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/webistomin/startuem/issues"
-  },
-  "homepage": "https://github.com/webistomin/startuem#readme",
   "devDependencies": {
     "autoprefixer": "^9.4.10",
     "babel-core": "^6.26.3",
